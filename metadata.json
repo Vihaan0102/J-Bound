@@ -1,0 +1,8 @@
+{
+  "name": "J-Bound: 留日学子管理助手",
+  "description": "专为在日中国留学生设计的全方位管理系统，涵盖作业提交、研究计划书润色、月度规划反馈、选校建议及证件存档。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
